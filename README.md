@@ -1,1 +1,2 @@
 # admin-dashboard
+Simple dashboard page using (almost) exclusively CSS Grid for positioning. Not responsive and a few things could certainly be touched up to look better, but overall the layout is nice and the color scheme is cozy to me.
